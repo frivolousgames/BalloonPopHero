@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e9729ff9f10ce8841890c55b7271a6ac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blink
+  fontNames:
+  - Blink
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ca347f7df5bad0428ad651b0867d79b, type: 3}
+  - {fileID: 12800000, guid: a532a08aa4a6dc942843178e10420cd8, type: 3}
+  - {fileID: 12800000, guid: 0222ad7d0e77f2044b7666ee1a94f98f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
